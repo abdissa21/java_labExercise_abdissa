@@ -1,0 +1,11 @@
+com\chatapp\model\Message.class
+com\chatapp\server\ClientHandler$1.class
+com\chatapp\logic\ChatLogic$ParsedCommand$Type.class
+com\chatapp\logic\ChatLogic$ParsedCommand.class
+com\chatapp\logic\ChatLogic.class
+com\chatapp\server\ChatServer.class
+com\chatapp\database\DatabaseHandler.class
+com\chatapp\client\ChatClientApp.class
+com\chatapp\server\ClientHandler.class
+com\chatapp\client\ChatClientLogic$1.class
+com\chatapp\client\ChatClientLogic.class
